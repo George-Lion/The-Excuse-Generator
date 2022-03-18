@@ -1,3 +1,22 @@
+## The Excuse Generator
+
+JavaScript allows us to give interactivity to our websites, in this case the parameters we use allow us to obtain a different message when reloading the page, in this case an excuse. The excuse generator is made with an HTML5 file that will form the structure of our website, a css file that is in charge of the visual part and a JavaScript file where all the parameters that generate the process of the requested action are found.
+
+Concepts applied in architecture:
+
+* Use of Functions.
+* Array implementation.
+* Use of CSS rules.
+* Basic HTML structure.
+ 
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts Pages](https://fonts.google.com/).
+
+[-Fontawesome Pages](https://fontawesome.com/).
+
+[-Pexel Pages](https://www.pexels.com/es-es/).
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
